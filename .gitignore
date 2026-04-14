@@ -1,0 +1,19 @@
+# Ambiente virtuale (il colpevole principale)
+.venv/
+venv/
+env/
+bin/
+lib/
+
+# Cache di Python
+__pycache__/
+*.pyc
+
+# Dati e file temporanei (se non vuoi caricare i tuoi CSV giganti)
+tracks.csv
+.ipynb_checkpoints/
+
+.env
+
+.DS_Store
+**/.DS_Store
